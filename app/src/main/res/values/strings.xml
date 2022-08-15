@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="open_settings">Open Settings</string>
+    <string name="batter_saver_settings">Batter Saver Settings</string>
+    <string name="battery_optimization_settings">Battery Optimization Settings</string>
+    <string name="ignore_battery_optimization">Ignore Battery Optimization Directly</string>
+</resources>
